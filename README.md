@@ -1,2 +1,2 @@
 # sandbox
-Testområde. Krangle med git. 
+Testområde. Krangle med git, men bedre nå. 
